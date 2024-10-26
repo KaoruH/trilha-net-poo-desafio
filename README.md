@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
+## Ramos
+- Main : resolução do desafio conforme proposto
+- Desafio-com-SetPrivate: mudança de atributo private para public com setprivate.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
